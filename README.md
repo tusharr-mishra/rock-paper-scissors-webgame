@@ -16,7 +16,7 @@ Designed with a clean UI, engaging gameplay mechanics and beginner-friendly fron
 
 ## 🔗 Live Preview
 
-**[View Live Demo]()** 
+**[View Live Demo]( https://tusharr-mishra.github.io/rock-paper-scissors-webgame/)** 
 
 ---
 
