@@ -14,6 +14,12 @@ Designed with a clean UI, engaging gameplay mechanics and beginner-friendly fron
 
 ---
 
+## 🔗 Live Preview
+
+**[View Live Demo]( https://tusharr-mishra.github.io/amazon-clone-website/)** 
+
+---
+
 # Overview
 
 This project is a browser-based implementation of the classic **Rock Paper Scissors** game where the user competes against the computer in real time.
