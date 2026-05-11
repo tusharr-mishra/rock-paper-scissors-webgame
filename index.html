@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Character encoding -->
+    <meta charset="UTF-8">
+
+    <!-- Makes website responsive on different screen sizes -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title displayed on browser tab -->
+    <title>RPS-WebGame</title>
+
+    <!-- Linking external CSS file -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- Main Heading -->
+    <h1>Rock Paper Scissors</h1>
+
+    <!-- Container for all game choices -->
+    <div class="choices">
+
+        <!-- Rock Choice -->
+        <div class="choice" id="rock">
+            <img src="./assets/images/rock.png" alt="Rock">
+        </div>
+
+        <!-- Paper Choice -->
+        <div class="choice" id="paper">
+           <img src="./assets/images/paper.png" alt="Paper">
+        </div>
+
+        <!-- Scissors Choice -->
+        <div class="choice" id="scissor">
+            <img src="./assets/images/scissors.png" alt="Scissors">
+        </div>
+
+    </div>
+
+    <!-- Score Board Section -->
+    <div class="score-board">
+
+        <!-- User Score -->
+        <div class="score">
+            <p id="userscore">0</p>
+            <p>You</p>
+        </div>
+
+        <!-- System Score -->
+        <div class="score">
+            <p id="systemscore">0</p>
+            <p>System</p>
+        </div>
+
+    </div>
+
+    <!-- Message Display Container -->
+    <div class="msg-container">
+
+        <!-- Displays game result messages -->
+        <p id="msg">Play Your Move</p>
+
+    </div>
+
+    <!-- Linking external JavaScript file -->
+    <script src="app.js"></script>
+
+</body>
+
+</html>
