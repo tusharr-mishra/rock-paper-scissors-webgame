@@ -9,7 +9,6 @@ Designed with a clean UI, engaging gameplay mechanics and beginner-friendly fron
 ![HTML](https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript)
-![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
 
 </div>
 
@@ -96,6 +95,7 @@ rock-paper-scissors-webgame/
 ├── style.css
 ├── app.js
 └── README.md
+```
 
 # Author
 
